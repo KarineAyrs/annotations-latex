@@ -40,7 +40,7 @@ project/
 
 ## Базовая литература 
 - Агенты
-  - для общего понимания быстрого погружения в тематику https://github.com/pridees/agentic-design-patterns-book-rus
+  - для общего понимания и быстрого погружения в тематику https://github.com/pridees/agentic-design-patterns-book-rus
   - https://github.com/WooooDyy/LLM-Agent-Paper-List?tab=readme-ov-file#1-the-birth-of-an-agent-construction-of-llm-based-agents  
 - Часть по безопасности
   - Основные принципы https://arxiv.org/pdf/1908.04734
