@@ -46,6 +46,7 @@ project/
 - Часть по безопасности
   - Основные принципы https://arxiv.org/pdf/1908.04734
   - Reward Hacking https://arxiv.org/pdf/2209.13085
+  - Goal Misgeneralization in Deep Reinforcement Learning https://arxiv.org/pdf/2105.14111
 
 
 ## Статьи для аннотирования
