@@ -1,0 +1,48 @@
+\documentclass[11pt]{extarticle}
+
+\usepackage[warn]{mathtext}
+\usepackage[T2A]{fontenc}      % кодировка
+\usepackage[utf8]{inputenc}      % кодировка исходного текста
+\usepackage[english,russian]{babel}  % локализация и переносы
+\usepackage{indentfirst}
+\usepackage{csquotes}
+% \usepackage[bibstyle=gost-numeric, sorting=none]{biblatex}
+% \addbibresource{biblio.bib}
+
+% page settings
+\usepackage[
+    left=1.8cm,
+    right=1.8cm,
+    top=1.8cm,
+    bottom=1.8cm,
+    bindingoffset=0cm
+]{geometry}
+
+\usepackage{graphicx, hyperref, xcolor}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=teal,
+    filecolor=magenta, 
+    urlcolor=blue,
+    citecolor=olive,
+    pdftitle={GD},
+    % pdfpagemode=FullScreen,
+    linktoc=all
+    }
+
+\usepackage{wrapfig,caption}
+
+% figures
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{floatrow}
+\floatsetup{heightadjust=object}
+
+% math
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools,esint,eucal}
+
+\begin{document}
+
+\input{main_files/1 annotation}
+
+\end{document}
