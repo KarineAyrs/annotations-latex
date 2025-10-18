@@ -7,9 +7,38 @@
 \usepackage{indentfirst}
 \usepackage{csquotes}
 % \bibliographystyle{plain}
-% \bibliography{literature}
-\usepackage[bibstyle=gost-numeric, sorting=none]{biblatex}
+
+\usepackage[
+    backend=biber,        % ВАЖНО: используем biber, не bibtex
+    % bibstyle=gost-numeric,
+    sorting=none
+]{biblatex}
 \addbibresource{literature.bib}
+
+% \bibliography{literature.bib}
+
+\usepackage{amsthm}
+\usepackage{mathtools}
+\usepackage{amstext}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\newtheorem{theorem}{Теорема}[section]
+\newtheorem{lemma}{Лемма}[section]
+\newtheorem{corollary}{Следствие}[section]
+\newtheorem{proposition}{Утверждение}[section]
+\newtheorem{theorem*}{Теорема}
+\newtheorem{lemma*}{Лемма}
+\newtheorem{corollary*}{Следствие}
+\newtheorem{proposition*}{Утверждение}
+\theoremstyle{definition}
+\newtheorem{definition}{Определение}[section]
+\newtheorem{remark}{Замечание}[section]
+\newtheorem{example}{Пример}[section]
+\newtheorem{definition*}{Определение}
+\newtheorem{remark*}{Замечание}
+\newtheorem{example*}{Пример}
+\newtheorem{assumption*}{Предположение}
 
 % page settings
 \usepackage[
@@ -45,6 +74,9 @@
 
 \begin{document}
 
-\input{main_files/1 annotation}
+\input{main_files/definitions.tex}
+\input{main_files/1_Annotation_Reward_Tampering_Problems_and_Solutions_in_Reinforcement_Learning.tex}
+
+% \printbibliography
 
 \end{document}
