@@ -52,23 +52,24 @@ project/
 ## Статьи для аннотирования
 | № | Название | Год | Ссылка на источник | Ссылка на реализацию (github репо или другое) | Проаннотирована (✔) |
 |---:| :--- | ---: | :--- | :--- | :---: |
-| 1 | Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models | 2024 | [arxiv 2406.10162](https://arxiv.org/abs/2406.10162) | [Github](https://github.com/anthropics/sycophancy-to-subterfuge-paper) | ✔ |
-| 2 | Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study | 2025 | [arxiv 2507.05619](https://arxiv.org/abs/2507.05619) |  | ✔ |
-| 3 | Defining and Characterizing Reward Hacking | 2025 | [arxiv 2209.13085](https://arxiv.org/abs/2209.13085) | [Github](https://github.com/nikihowe/reward-hacking-paper) | ✔ |
-| 4 | Modification-Considering Value Learning for Reward Hacking Mitigation in RL | 2025 | [openreview](https://openreview.net/forum?id=OmYqzp8NO7) |  | ✔ |
-| 5 | InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling | 2024 | [arxiv 2402.09345](https://arxiv.org/abs/2402.09345) | [Github](https://github.com/miaoyuchun/InfoRM) | ✔ |
-| 6 | Reward tampering and evolutionary computation: a study of concrete AI-safety problems using evolutionary algorithms | 2023 | [springer 10.1007](https://link.springer.com/article/10.1007/s10710-023-09456-0) |  | ✔ |
-| 7 | School of Reward Hacks: Hacking harmless tasks generalizes to misaligned behavior in LLMs | 2025 | [arxiv 2508.17511](https://arxiv.org/abs/2508.17511) |  | ✔ |
-| 8 | AI Safety Gridworlds | 2017 | [arxiv 1711.09883](https://arxiv.org/abs/1711.09883) | [Github](https://github.com/google-deepmind/ai-safety-gridworlds) | ✔ |
-| 9 | Inverse Reward Design | 2020 | [arxiv 1711.02827](https://arxiv.org/abs/1711.02827) | [Github](https://github.com/SoerenMind/Inverse_Reward_Design) | ✔ |
-| 10 | A Comprehensive Survey on Safe Reinforcement Learning | 2015 | [jmlr garcia15a](https://jmlr.org/papers/v16/garcia15a.html) |  | ✔ |
-| 11 | RRM: Robust Reward Model Training Mitigates Reward Hacking | 2025 | [arxiv 2409.13156](https://arxiv.org/abs/2409.13156) |  | ✔ |
-| 12 | Avoiding Tampering Incentives in Deep RL via Decoupled Approval | 2020 | [arxiv 2011.08827](https://arxiv.org/abs/2011.08827) |  | ✔ |
-| 13 | Scalable agent alignment via reward modeling: a research direction | 2018 | [arxiv 1811.07871](https://arxiv.org/abs/1811.07871) |  | |
-| 14 | REALab: An Embedded Perspective on Tampering | 2020 | [arxiv 2011.08820](https://arxiv.org/abs/2011.08820) |  | |
-| 15 | Agent Incentives: A Causal Perspective | 2021 | [arxiv 2102.01685](https://arxiv.org/abs/2102.01685) |  | |
-| 16 | 'Indifference' methods for managing agent rewards | 2018 | [arxiv 1712.06365](https://arxiv.org/abs/1712.06365) |  | |
-| 17 | Reward Hacking Mitigation using Verifiable Composite Rewards | 2025 | [arxiv 2509.15557v1](https://arxiv.org/abs/2509.15557v1) |  | |
-| 18 | Repairing Reward Functions with Human Feedback to Mitigate Reward Hacking | 2025 | [arxiv 2510.13036](https://arxiv.org/abs/2510.13036) |  | |
-| 19 | Reward Shaping to Mitigate Reward Hacking in RLHF | 2025 | [arxiv 2502.18770](https://arxiv.org/abs/2502.18770) |  | |
-| 20 | Concrete Problems in AI Safety | 2016 | [arxiv 1606.06565](https://arxiv.org/abs/1606.06565) |  | |
+| 1 | Reward Tampering Problems and Solutions in Reinforcement Learning: A Causal Influence Diagram Perspective | 2021 | [arxiv 1908.04734](https://arxiv.org/abs/1908.04734) |  | ✔ |
+| 2 | Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models | 2024 | [arxiv 2406.10162](https://arxiv.org/abs/2406.10162) | [Github](https://github.com/anthropics/sycophancy-to-subterfuge-paper) | ✔ |
+| 3 | Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study | 2025 | [arxiv 2507.05619](https://arxiv.org/abs/2507.05619) |  | ✔ |
+| 4 | Defining and Characterizing Reward Hacking | 2025 | [arxiv 2209.13085](https://arxiv.org/abs/2209.13085) | [Github](https://github.com/nikihowe/reward-hacking-paper) | ✔ |
+| 5 | Modification-Considering Value Learning for Reward Hacking Mitigation in RL | 2025 | [openreview](https://openreview.net/forum?id=OmYqzp8NO7) |  | ✔ |
+| 6 | InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling | 2024 | [arxiv 2402.09345](https://arxiv.org/abs/2402.09345) | [Github](https://github.com/miaoyuchun/InfoRM) | ✔ |
+| 7 | Reward tampering and evolutionary computation: a study of concrete AI-safety problems using evolutionary algorithms | 2023 | [springer 10.1007](https://link.springer.com/article/10.1007/s10710-023-09456-0) |  | ✔ |
+| 8 | School of Reward Hacks: Hacking harmless tasks generalizes to misaligned behavior in LLMs | 2025 | [arxiv 2508.17511](https://arxiv.org/abs/2508.17511) |  | ✔ |
+| 9 | AI Safety Gridworlds | 2017 | [arxiv 1711.09883](https://arxiv.org/abs/1711.09883) | [Github](https://github.com/google-deepmind/ai-safety-gridworlds) | ✔ |
+| 10 | Inverse Reward Design | 2020 | [arxiv 1711.02827](https://arxiv.org/abs/1711.02827) | [Github](https://github.com/SoerenMind/Inverse_Reward_Design) | ✔ |
+| 11 | A Comprehensive Survey on Safe Reinforcement Learning | 2015 | [jmlr garcia15a](https://jmlr.org/papers/v16/garcia15a.html) |  | ✔ |
+| 12 | RRM: Robust Reward Model Training Mitigates Reward Hacking | 2025 | [arxiv 2409.13156](https://arxiv.org/abs/2409.13156) |  | ✔ |
+| 13 | Avoiding Tampering Incentives in Deep RL via Decoupled Approval | 2020 | [arxiv 2011.08827](https://arxiv.org/abs/2011.08827) |  | ✔ |
+| 14 | Scalable agent alignment via reward modeling: a research direction | 2018 | [arxiv 1811.07871](https://arxiv.org/abs/1811.07871) |  | |
+| 15 | REALab: An Embedded Perspective on Tampering | 2020 | [arxiv 2011.08820](https://arxiv.org/abs/2011.08820) |  | |
+| 16 | Agent Incentives: A Causal Perspective | 2021 | [arxiv 2102.01685](https://arxiv.org/abs/2102.01685) |  | |
+| 17 | 'Indifference' methods for managing agent rewards | 2018 | [arxiv 1712.06365](https://arxiv.org/abs/1712.06365) |  | |
+| 18 | Reward Hacking Mitigation using Verifiable Composite Rewards | 2025 | [arxiv 2509.15557v1](https://arxiv.org/abs/2509.15557v1) |  | |
+| 19 | Repairing Reward Functions with Human Feedback to Mitigate Reward Hacking | 2025 | [arxiv 2510.13036](https://arxiv.org/abs/2510.13036) |  | |
+| 20 | Reward Shaping to Mitigate Reward Hacking in RLHF | 2025 | [arxiv 2502.18770](https://arxiv.org/abs/2502.18770) |  | |
+| 21 | Concrete Problems in AI Safety | 2016 | [arxiv 1606.06565](https://arxiv.org/abs/1606.06565) |  | |
